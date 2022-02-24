@@ -1,11 +1,11 @@
-# Find_-the-_Best_Combination_to_Support_Obama-s_Fundrasing_Campaign
+# Find_the_Best_Combination_to_Support_Obama-s_Fundrasing_Campaign
 Multi-Armed Bandit Problem - find the best combination of "media" section and call-to-action "Button" from 24 combinations.
 
 ## Key Words
 Multi-Armed Bandit Problem, E-Greedy, Adaptive E-Greedy, UCB1
 
 ## Content
-The multi-armed bandit problem is used in reinforcement learning. In this problem, an arm is chosen from 24 different combinations/arms and upon “pull” the arm, the learner receives a reward based on an invisible distribution of that arm. Through the algorithm designed, the best arm is identified and we will keep pulling this arm to get maximum expectation of the net rewards.
+This project is based on a case study of Obama’s fundraising campaign. In this project, we are required to find the best combination of “media” section and call-to-action “Button” from 24 combinations. We aim to find the one that results in the highest sign-up rate. Due to the budget limit, we are supposed to find the best combination/arm in the least amount of tries as possible less than one million. 
 
 ## Insights
 Among those three methods, adaptive e-greedy has the most randomness in finding the best arm and UCB has the least.
