@@ -1,4 +1,4 @@
-# Find_the_Best_Combination_to_Support_Obama-s_Fundrasing_Campaign
+# Find_the_Best_Combination_to_Support_Obama-s_Fundraising_Campaign
 Multi-Armed Bandit Problem - find the best combination of "media" section and call-to-action "Button" from 24 combinations.
 
 ## Key Words
